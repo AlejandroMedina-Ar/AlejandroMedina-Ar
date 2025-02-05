@@ -9,7 +9,7 @@
 <div  align="center">
   <a href="https://github.com/AlejandroMedina-Ar">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlejandroMedina-Ar&show_icons=true&hide_border=false&count_private=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroMedina-Ar&show_icons=true&hide_border=false&layout=compact&langs_count=8&&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroMedina-Ar&show_icons=true&hide_border=false&layout=compact&langs_count=7&&theme=tokyonight"/>
 
 </div><br>
 
